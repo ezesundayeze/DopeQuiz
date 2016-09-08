@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DopeQuizDb" Class="DopeQuizDbCLassessDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\DopeQuizDb.mdf;Integrated Security=True;Connect Timeout=30" SettingsObjectName="DopeQuiz.Properties.Settings" SettingsPropertyName="DopeQuizDbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Users" Member="Users">
+    <Type Name="User">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="username" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="password" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.questions" Member="questions">
+    <Type Name="question">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="questiontext" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="correct_ans" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ans1" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ans2" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="ans3" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

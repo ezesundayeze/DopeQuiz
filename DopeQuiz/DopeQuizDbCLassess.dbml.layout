@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DopeQuizDbCLassess">
+  <DataContextMoniker Name="/DopeQuizDbCLassessDataContext" />
+  <nestedChildShapes>
+    <classShape Id="daefe532-d659-41ac-8823-9cea205a7961" absoluteBounds="4.125, 1.625, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DopeQuizDbCLassessDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2e9d2fde-59ae-4afd-8151-6434a2f90cf1" absoluteBounds="4.14, 2.085, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bf75b35b-70af-4663-98c3-890f4c27a7ff" absoluteBounds="1.5, 0.875, 2, 1.9631982421875">
+      <DataClassMoniker Name="/DopeQuizDbCLassessDataContext/question" />
+      <nestedChildShapes>
+        <elementListCompartment Id="56d0d28b-e39c-416c-83fa-2ee9345496b9" absoluteBounds="1.5149999999999997, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

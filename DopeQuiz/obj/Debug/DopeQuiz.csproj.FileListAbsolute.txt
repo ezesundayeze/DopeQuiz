@@ -1,0 +1,13 @@
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\bin\Debug\DopeQuiz.exe.config
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\bin\Debug\DopeQuiz.exe
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\bin\Debug\DopeQuiz.pdb
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\bin\Debug\MaterialSkin.dll
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\obj\Debug\DopeQuiz.csprojResolveAssemblyReference.cache
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\obj\Debug\DopeQuiz.Properties.Resources.resources
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\obj\Debug\DopeQuiz.csproj.GenerateResource.Cache
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\obj\Debug\DopeQuiz.exe
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\obj\Debug\DopeQuiz.pdb
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\obj\Debug\DopeQuiz.loginForm.resources
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\bin\Debug\DopeQuizDb.mdf
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\bin\Debug\DopeQuizDb_log.ldf
+C:\Users\ezesunday\Documents\Visual Studio 2012\Projects\DopeQuiz\DopeQuiz\obj\Debug\DopeQuiz.quizMainForm.resources
